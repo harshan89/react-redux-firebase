@@ -14,4 +14,4 @@ This project based on create-react-app
 `npm run build`
 
 ## live preview
-comming soon
+https://harshan89.github.io/react-redux-firebase
